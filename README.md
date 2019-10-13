@@ -1,6 +1,6 @@
 # Python Powered Excel
 
-This repo consist of four small project which based on real-life secnario.
+This repo consist of four small project which based on real-life scenario.
 
 With this you'll learn:
 
