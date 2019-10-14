@@ -1,5 +1,7 @@
 # Python Powered Excel
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OddExtension5/Python-Powered-Excel/master)
+
 This repo consist of four small project which based on real-life scenario.
 
 With this you'll learn:
