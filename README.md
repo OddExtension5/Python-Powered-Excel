@@ -10,6 +10,3 @@ With this you'll learn:
 2. How to provide end report to companies which enrich in information.
 3. How to present your report.
 4. Many python libraries are also explained 
-
-
-[Binder link](https://mybinder.org/v2/gh/OddExtension5/Python-Powered-Excel/master)
