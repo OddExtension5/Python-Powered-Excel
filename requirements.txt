@@ -1,0 +1,4 @@
+## List of libraries used with version number
+pandas==0.24.0
+xlsxwriter==1.1.8
+xlrd==1.2.0
