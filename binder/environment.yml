@@ -1,4 +1,4 @@
-name: python-powered-excel
+name: python-powered-excel-odd-extension5
 channels:
   - conda-forge
 dependencies:
