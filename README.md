@@ -4,15 +4,16 @@
 
 This repo consist of four small project which based on real-life scenario.
 
-With this you'll learn:
+Repo covers:
 
 1. How to control Excel by writing Python code.
 2. How to provide end report to companies which enrich in information.
 3. How to present your report.
-4. Many python libraries are also explained 
 
 
 ## Running Jupyter Locally via Docker
+
+**Note**: You can run this repo via Docker(locally) or Binder(cloud) (binder button is added above just click on that)
 
 You will need to have Docker installed on your system to create images and run containers. You can find the installation steps for all platforms on the company's [website](https://docs.docker.com/install/)
 .
